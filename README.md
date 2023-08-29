@@ -21,9 +21,9 @@ https://www.imgw.pl/
 ### Usage
 
 Please find links below which contain results:
-https://adamoleksak.github.io/adamoleksak/temperature/temperature_analysis.html
-https://adamoleksak.github.io/adamoleksak/temperature/temperature_analysis_mobile.html
-https://adamoleksak.github.io/adamoleksak/precipation/precipation_analysis.html
+https://adamoleksak.github.io/climate_analysis_repo/temperature/temperature_analysis.html
+https://adamoleksak.github.io/climate_analysis_repo/temperature/temperature_analysis_mobile.html
+https://adamoleksak.github.io/climate_analysis_repo/precipation/precipation_analysis.html
 
 
 ## Authors
